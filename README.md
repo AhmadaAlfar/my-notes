@@ -17,4 +17,4 @@
   - Changes that will bring you a lot of value and require little effort are better than those that will bring you little value and require a lot of effort.
   - Don’t hesitate to ask for help.
   - Keep up with development and read books on software development
- Know when to say no
+ 
